@@ -1,2 +1,5 @@
-# learning
-Becoming 1% better at data science everyday. 1.01^365
+# Learning
+## Broaden Perspective and Domain Knowledge
+- [ ] First entry
+
+## Get understanding of how business work
