@@ -40,6 +40,44 @@
 
 ## Be able to implement models for timeseries and forecasting
 
+## Be able to implement ML models with scikit-learn
+
+## Be able to implement neural networks in Tensorflow and Keras
+
+## Be able to implement models in PyTorch
+
+## Be able to implement edge inference
+
+## Be able to use managed ML services on the cloud
+
+## Be able to optimize model performance
+
+## Be able to serve and scale ML models
+
+## Be able to perform A/B test
+
+## Be able to write unit tests
+
+## Be proficient in Python
+
+## Be familiar with compiled languages
+
+## Be able to utilize version control
+
+## Be able to implement Services and APIs
+
+## Be familiar with fundamental Computer Science concepts
+
+## Be able to aply proper software engineering process
+
+## Be able to efficiently use a text editor
+
+## Be able to communicate insights
+
+## Be familiar with the hiring pipeline
+
+
+
 
 
 
